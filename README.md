@@ -18,10 +18,6 @@ The Task Management System Application is designed to enhance productivity and o
 - **List View**: Tasks are displayed in a list format for easy viewing.
 - **Sorting**: Tasks are sorted: High > medium > low.
 
-### Responsive Design
-
-- **Mobile and Desktop Support**: The application is fully responsive and works well on various screen sizes, providing a consistent user experience across devices.
-
 ### Export Functionality
 
 - **Export to CSV**: Users can export their tasks to a CSV file for external use and backup.
@@ -71,10 +67,6 @@ The Task Management System Application is designed to enhance productivity and o
     - **task.model.ts**: Defines the Task interface.
   - **services**:
     - **task.service.ts**: Provides task management functionalities.
-  - **store**:
-    - **reducers**: Manages application state using ngrx store.
-    - **actions**: Defines actions for state management.
-    - **effects**: Handles side effects in state management.
 
 ### Detailed Features
 
